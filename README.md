@@ -13,7 +13,7 @@ Projeto desenvolvido para controle simples de receitas e despesas.
 - JavaScript
 
 ## 📷 Preview
-(Coloque aqui um print do projeto)
+![Preview do projeto](./assets/print.png)
 
 ## 📌 Melhorias futuras
 - Armazenamento no LocalStorage
