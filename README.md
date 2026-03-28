@@ -15,7 +15,7 @@ Projeto desenvolvido para controle simples de receitas e despesas.
 ## 🌐 Deploy
 
 🔗 Acesse o projeto online:  
-👉 [https://dashboard-financeiro-seven-rho.vercel.app/]
+👉 https://dashboard-financeiro-seven-rho.vercel.app/
 
 ## 📷 Preview
 ![Preview do projeto](./assets/print.png)
