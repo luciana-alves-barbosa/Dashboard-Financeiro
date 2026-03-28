@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+form {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+input, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
