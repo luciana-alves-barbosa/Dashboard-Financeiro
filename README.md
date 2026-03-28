@@ -12,6 +12,11 @@ Projeto desenvolvido para controle simples de receitas e despesas.
 - CSS
 - JavaScript
 
+## 🌐 Deploy
+
+🔗 Acesse o projeto online:  
+👉 [https://dashboard-financeiro-seven-rho.vercel.app/]
+
 ## 📷 Preview
 ![Preview do projeto](./assets/print.png)
 
@@ -19,3 +24,4 @@ Projeto desenvolvido para controle simples de receitas e despesas.
 - Armazenamento no LocalStorage
 - Filtro de transações
 - Gráficos
+  
